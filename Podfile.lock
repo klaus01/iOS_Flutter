@@ -2,17 +2,13 @@ PODS:
   - Flutter (1.0.0)
   - FlutterPluginRegistrant (0.0.1):
     - Flutter
-    - shared_preferences
   - my_flutter (0.0.1):
-    - Flutter
-  - shared_preferences (0.0.1):
     - Flutter
 
 DEPENDENCIES:
   - Flutter (from `my_flutter/.ios/Flutter/engine`)
   - FlutterPluginRegistrant (from `my_flutter/.ios/Flutter/FlutterPluginRegistrant`)
   - my_flutter (from `my_flutter/.ios/Flutter`)
-  - shared_preferences (from `my_flutter/.ios/Flutter/.symlinks/shared_preferences/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
@@ -21,14 +17,11 @@ EXTERNAL SOURCES:
     :path: my_flutter/.ios/Flutter/FlutterPluginRegistrant
   my_flutter:
     :path: my_flutter/.ios/Flutter
-  shared_preferences:
-    :path: my_flutter/.ios/Flutter/.symlinks/shared_preferences/ios
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  FlutterPluginRegistrant: c091cba77dfbec9c6c87f88451825b0ea4fa64f5
+  FlutterPluginRegistrant: 2afd5ea46d3a949472c9b7da6462d8fbf7d8b16e
   my_flutter: 5f71a42a61a499a9f322f2c0f62fc185a5807c9b
-  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
 
 PODFILE CHECKSUM: 33d57cb08328e1650adb4a9e324ebf20a305d10b
 

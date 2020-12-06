@@ -1,4 +1,3 @@
 ${PODS_ROOT}/Target Support Files/Pods-iOS_Flutter/Pods-iOS_Flutter-frameworks.sh
 ${PODS_ROOT}/../my_flutter/.ios/Flutter/engine/Flutter.framework
 ${PODS_ROOT}/../my_flutter/.ios/Flutter/App.framework
-${BUILT_PRODUCTS_DIR}/shared_preferences/shared_preferences.framework
